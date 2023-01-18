@@ -6,4 +6,5 @@ A collection of my solutions to HackerRank Problems. These codes are just for ke
 2) String Formatting
 3) Text Wrap
 4) Finding the percentage
+5) [Merge the tools](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)
 
