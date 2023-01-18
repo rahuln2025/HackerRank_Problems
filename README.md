@@ -10,4 +10,4 @@ A collection of my solutions to HackerRank Problems. These codes are just for ke
 6) [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)
 7) [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true)
 8) [Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
-
+9) [Aplhabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true)
